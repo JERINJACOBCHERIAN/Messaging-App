@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>148155713702-j51olhj1anh5i5p6hbvo22qf3tjtmb55.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.148155713702-j51olhj1anh5i5p6hbvo22qf3tjtmb55</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAhuByLzL7ygvZ5cwW3OTPZ6c_hTFxbiy4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>148155713702</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jerinjacobcherian.messagingapp</string>
+	<key>PROJECT_ID</key>
+	<string>messaging-app-21be3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>messaging-app-21be3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:148155713702:ios:bd0b1d987b0708a8</string>
+	<key>DATABASE_URL</key>
+	<string>https://messaging-app-21be3.firebaseio.com</string>
+</dict>
+</plist>
